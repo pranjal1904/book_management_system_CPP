@@ -5,11 +5,9 @@ It also lets users check and buy their favorite books anytime, anywhere with one
 
 
 Create a MySQL Database
-
 Database Name: Management
 
 And Tables :
-
 Books
 
 int id			// Primary Key
